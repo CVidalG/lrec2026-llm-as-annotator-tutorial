@@ -1,7 +1,7 @@
 # Under-Resourced Studies of Under-Resourced Languages  
 Practical, Reproducible LLM-as-Annotator Pipelines Across Scripts and Domains
 
-Tutorial at LREC-COLING 2026 (co-located)
+Tutorial at LREC 2026
 
 ---
 
@@ -70,22 +70,7 @@ Dataset licensing, data sovereignty and community co-design (CARE / OCAP princip
 
 ## Reading list (indicative)
 
-Core pre-reads:
-
-- Tan et al., 2024 – LLMs as Annotators  
-- Gilardi et al., 2023 – ChatGPT for text annotation  
-- Universal Dependencies guidelines  
-- Carroll et al., 2020 – CARE principles for Indigenous data governance  
-
-Additional readings on:
-
-- LLMs as annotators and evaluation in practice  
-- Structured outputs and constrained decoding  
-- Active learning and sampling with LLMs-in-the-loop  
-- OCR robustness for heritage corpora  
-- Data governance and community-based approaches
-
-(A detailed reading list will be provided on the day of the tutorial.)
+An up-to-date detailed reading list will be provided.
 
 ---
 
@@ -94,7 +79,7 @@ Additional readings on:
 **Florian Cafiero** (Université Paris Sciences et Lettres – PSL; École nationale des chartes – PSL)  
 Fellow in Artificial Intelligence for the Humanities and Social Sciences at PSL and researcher at the Centre Jean-Mabillon (École nationale des chartes – PSL). His work spans digital humanities and computational social science, with a focus on low-resource and historical corpora, stylometry and authorship attribution, and practical NLP workflows (LLM-as-annotator, OCR/HTR pipelines) for heritage collections.
 
-**Chahan Vidal-Gorène** (École nationale des chartes – PSL; Université Paris 13)  
+**Chahan Vidal-Gorène** (École nationale des chartes – PSL)  
 Lecturer and researcher in digital humanities, and director of the Digital Humanities Master's program at PSL University. His research focuses on computational paleography and the analysis of under-resourced languages (HTR, linguistic analysis). He is a member of the ANR DALiH project and the DISTAM consortium for data creation and NLP model development for non-Latin languages (mainly Armenian, Arabic, and Chinese), and CEO and founder of Calfa.
 
 **Bastien Kindt** (Université catholique de Louvain)  
