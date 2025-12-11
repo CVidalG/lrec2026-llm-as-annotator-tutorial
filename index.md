@@ -95,6 +95,10 @@ Researcher at the Institut orientaliste of UCLouvain and specialist in Ancient G
 
 Further practical information (e.g. links to notebooks and datasets) will be added closer to the tutorial date.
 
+## Acknowledgments
+
+This tutorial is supported by the PSL Research University’s Major Research Program CultureLab, implemented by the ANR (reference ANR-10-IDEX-0001), and by the ANR project Digitizing Armenian Linguistic Heritage (DALiH, reference ANR-21-CE38-0006).
+
 <figure>
     <img src="assets/logo.png"/>
 </figure>
