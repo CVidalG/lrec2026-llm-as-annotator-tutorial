@@ -11,6 +11,10 @@ This hands-on tutorial teaches cost-effective, reproducible pipelines for using 
 
 We cover zero- and few-shot prompting, constrained and structured outputs for polylexical tags, in-domain vs. out-of-domain evaluation, error analysis, strategic sampling and active learning, and ethics and data governance for heritage and minority-language resources. Deliverables include ready-to-adapt notebooks, small example datasets, and checklists for responsible practice.
 
+<p align="center">
+    <img src="assets/illustration.png"/>
+</p>
+
 ---
 
 ## Who should attend?
