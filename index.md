@@ -94,3 +94,7 @@ Researcher at the Institut orientaliste of UCLouvain and specialist in Ancient G
 - A fallback path with pre-run notebooks will be provided for connectivity-constrained rooms.  
 
 Further practical information (e.g. links to notebooks and datasets) will be added closer to the tutorial date.
+
+<figure>
+    <img src="assets/logo.png"/>
+</figure>
